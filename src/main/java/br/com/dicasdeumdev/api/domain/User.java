@@ -3,7 +3,6 @@ package br.com.dicasdeumdev.api.domain;
 import lombok.*;
 
 import javax.persistence.*;
-import java.util.Objects;
 
 @Data
 @AllArgsConstructor
